@@ -21,7 +21,9 @@ Career summary
 **Oct 2018 - Present 
 Partnerize, London, UK
 Front End Developer**
+
 _Outline_
+
 Created and maintained a UI Component Library containing React components that power the
 Partnerize WebApp. Also worked on legacy tickets (PHP) as and when required.
 
@@ -47,7 +49,9 @@ _Key achievements/projects_
 **May 2017 – Oct 2018 
 Salecycle, Durham ,UK
 Software Engineer**
+
 _Outline_
+
 Full stack software engineer specialising in JavaScript/TypeScript on the frontend and NodeJs/Java on
 the backend. Mostly involved in transitioning a legacy C#/.NET/SQL stack to a scalable cloud based
 solution using various AWS solutions.
@@ -86,7 +90,9 @@ _Key achievements/projects_
 SaleCycle, Durham, UK**
 
 **Implementation Developer**
+
 _Outline_
+
 Configured scripts in ES3 and later ES6 (transpiled down to ES5 using Babel) standards utilising
 TypeScript 2 with our own proprietary API to integrate with clients' websites to consume and track
 data, interfacing and utilising our core API for functionality, working with promises and async/await
@@ -104,7 +110,9 @@ _Key achievements/projects_
 **Jan 2015 – Oct 2015 
 Connect Childcare, Burnley, UK
 Junior Developer**
+
 _Outline_
+
 As a graduate developer I worked on various parts of the Childcare WebApp, including introducing a
 templating language, aiding with data migrations & support cases as and when required.
 
