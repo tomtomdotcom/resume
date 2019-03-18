@@ -26,7 +26,7 @@ _Outline_
 
 Aided in the refactor from a legacy proof of concept to a more modular and maintainable code base using TypeScript/GraphQL.
 
-_Key Repsonsibilities_
+_Key Responsibilities_
 
 - Created and helped implement strict but effective Linting/Formatting rules (TSLint/Prettier)
 - Aided DevOps with monitoring new microservices/ deployment pipelines.
