@@ -19,7 +19,7 @@ Suite(S3/SQS/KPLs/KCLs/Dynamo).
 Career summary
 
 **Nov 2018 - Present
-Kwiff Gaming, London, UK,
+Kwiff Gaming, London, UK -
 Backend Developer**
 
 _Outline_
@@ -47,7 +47,7 @@ _Tech Stack_
 - MySQL
 
 **Oct 2018 - Nov 2018 
-Partnerize, London, UK
+Partnerize, London, UK -
 Front End Developer**
 
 _Outline_
@@ -75,7 +75,7 @@ _Key achievements/projects_
 - Had an impact from Day 1 with Code reviews.
 
 **May 2017 – Oct 2018 
-Salecycle, Durham ,UK
+Salecycle, Durham, UK - 
 Software Engineer**
 
 _Outline_
