@@ -18,7 +18,35 @@ Suite(S3/SQS/KPLs/KCLs/Dynamo).
 
 Career summary
 
-**Oct 2018 - Present 
+**Nov 2018 - Present
+Kwiff Gaming, London, UK,
+Backend Developer**
+
+_Outline_
+
+Aided in the refactor from a legacy proof of concept to a more modular and maintainable code base using TypeScript/GraphQL.
+
+_Key Repsonsibilities_
+
+- Created and helped implement strict but effective Linting/Formatting rules (TSLint/Prettier)
+- Aided DevOps with monitoring new microservices/ deployment pipelines.
+- Created a mobile Casino platform in a short time frame due to issues with HTML5 apps on the App Store.
+- Worked alongside Front End Developers whilst implementing a new sign up flow
+- Helped debug issues out of hours and was always on hand for emergencies.
+
+_Key Achievements/projects_
+
+- Rapid development of a ReactJS Mobile Casino WebApp which was deployed to production with 0 issues.
+
+_Tech Stack_
+
+- TypeScript/JavaScript (ES6+)
+- ReactJS
+- NodeJS (backend services)
+- GraphQL
+- MySQL
+
+**Oct 2018 - Nov 2018 
 Partnerize, London, UK
 Front End Developer**
 
