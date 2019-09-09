@@ -19,7 +19,7 @@ Suite(S3/SQS/KPLs/KCLs/Dynamo).
 
 Career summary
 
-**November 2018 - August 2019
+**August 2019 > Present
 Hero, London, UK -
 Backend Developer**
 
