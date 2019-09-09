@@ -1,10 +1,11 @@
 ```
 Thomas Ward | Software Engineer
 ```
+
 ```
 Location: London
 Telephone: 07470029358
-Email: s.tom.ward@gmail.com
+Email: me@thomasward.net
 ```
 ***Professional profile***
 
@@ -18,7 +19,30 @@ Suite(S3/SQS/KPLs/KCLs/Dynamo).
 
 Career summary
 
-**Nov 2018 - Present
+**November 2018 - August 2019
+Hero, London, UK -
+Backend Developer**
+
+_Outline_
+
+Migrated entire backend messaging service from Layer to Twilio as a messageing provider. 
+
+_Key Responsibilities_
+
+- Migrated backend APIs between two messaging services.
+- Setup AWS Dashboards/Alarms
+- Developed on a NodeJS/Typescript backend.
+
+_Tech Stack_
+
+- TypeScript/JavaScript (ES6+)
+- ReactJS
+- NodeJS (backend services)
+- MongoDB
+- AWS
+
+
+**November 2018 - August 2019
 Kwiff Gaming, London, UK -
 Backend Developer**
 
